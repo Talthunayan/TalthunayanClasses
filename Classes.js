@@ -1,4 +1,4 @@
-
+//class creating 
 
 class Person {
     constructor(firstName, lastName, ID) {
